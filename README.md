@@ -1,4 +1,4 @@
-# Desafio 1 - Resolução
+# Arquitetura
 
 Link do site disponibilizado: https://desafioteste1landingpage.netlify.app/
 
